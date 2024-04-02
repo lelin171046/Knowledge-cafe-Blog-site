@@ -1,0 +1,47 @@
+[
+    {
+        "id": "123456",
+        "cover": "https://i.ibb.co/wpgWndB/modern-technology-trending-innovation-concept.jpg",
+        "title": "The Mystery of the Hidden Treasure",
+        "author": "Jessica Smith",
+        "authorImg": "https://i.ibb.co/d2t3JRy/Whats-App-Image-2024-02-19-at-9-29-42-AM.jpg",
+        "postedDate": "2024-04-01",
+        "readingTime": "30"
+    },
+    {
+        "id": "789012",
+        "cover": "https://i.ibb.co/Fqpwk5H/bukhansan-mountains-is-covered-by-morning-fog-sunrise-bukhansan-national-park-seoul-south-korea.jpg",
+        "title": "In Search of the Lost Kingdom",
+        "author": "Michael Johnson",
+        "authorImg": "https://i.ibb.co/9NTYyb7/Moniruzzaman-lelin-Linkedin-Profile-Picture.png",
+        "postedDate": "2024-03-28",
+        "readingTime": "45"
+    },
+    {
+        "id": "345678",
+        "cover": "https://i.ibb.co/dBD8pCx/mesmerizing-shot-skyscrapers-city-covered-mist-night.jpg",
+        "title": "The Secret Life of Robots",
+        "author": "Emily Brown",
+        "authorImg": "https://i.ibb.co/KsbBfPB/Rr3-Ev-r-C-removebg.png",
+        "postedDate": "2024-03-30",
+        "readingTime": "25 "
+    },
+    {
+        "id": "901234",
+        "cover": "https://i.ibb.co/b1JT9DH/wepik-export-202404020058191scz.jpg",
+        "title": "Adventures in the Enchanted Forest",
+        "author": "David Wilson",
+        "authorImg": "https://i.ibb.co/s3B8wzr/Whats-App-Image-2024-02-19-at-9-33-45-AM.jpg",
+        "postedDate": "2024-03-25",
+        "readingTime": "35"
+    },
+    {
+        "id": "567890",
+        "cover": "https://i.ibb.co/HH9szKz/colorful-school-supplies-shopping-basket-gray-wall-with-copy-text-space-stack-books-with-colorful-co.jpg",
+        "title": "The Secret Code of the Sphinx",
+        "author": "Sophia Miller",
+        "authorImg": "https://example.com/author5.jpg",
+        "postedDate": "2024-03-29",
+        "readingTime": "40"
+    }
+]
