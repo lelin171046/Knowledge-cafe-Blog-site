@@ -6,7 +6,7 @@
         "author": "Jessica Smith",
         "authorImg": "https://i.ibb.co/d2t3JRy/Whats-App-Image-2024-02-19-at-9-29-42-AM.jpg",
         "postedDate": "2024-04-01",
-        "readingTime": "30"
+        "readingTime": 30
     },
     {
         "id": "789012",
@@ -15,7 +15,7 @@
         "author": "Michael Johnson",
         "authorImg": "https://i.ibb.co/9NTYyb7/Moniruzzaman-lelin-Linkedin-Profile-Picture.png",
         "postedDate": "2024-03-28",
-        "readingTime": "45"
+        "readingTime": 45
     },
     {
         "id": "345678",
@@ -24,7 +24,7 @@
         "author": "Emily Brown",
         "authorImg": "https://i.ibb.co/KsbBfPB/Rr3-Ev-r-C-removebg.png",
         "postedDate": "2024-03-30",
-        "readingTime": "25 "
+        "readingTime": 25 
     },
     {
         "id": "901234",
@@ -33,7 +33,7 @@
         "author": "David Wilson",
         "authorImg": "https://i.ibb.co/s3B8wzr/Whats-App-Image-2024-02-19-at-9-33-45-AM.jpg",
         "postedDate": "2024-03-25",
-        "readingTime": "35"
+        "readingTime": 35
     },
     {
         "id": "567890",
@@ -42,6 +42,6 @@
         "author": "Sophia Miller",
         "authorImg": "https://example.com/author5.jpg",
         "postedDate": "2024-03-29",
-        "readingTime": "40"
+        "readingTime": 40
     }
 ]
